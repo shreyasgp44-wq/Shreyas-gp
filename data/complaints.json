@@ -1,0 +1,1812 @@
+[
+  {
+    "id": "CIVIC-2026-1001",
+    "title": "Massive hazardous pothole near 12th Main junction damaging vehicles",
+    "description": "A deep 2-foot crater has developed right in the center lane of 100 Feet Road, opposite Metro Pillar 42. Two two-wheelers skidded yesterday evening, and multiple car rims have bent. It fills with dark water at night and is invisible to oncoming traffic.",
+    "category": "Roads",
+    "department": "Roads & Infrastructure",
+    "status": "In Progress",
+    "priority": "Critical",
+    "priorityScore": 92,
+    "urgencyScore": 9,
+    "publicImpactScore": 10,
+    "priorityExplanation": "High-speed arterial corridor with severe collision and rollover hazard for two-wheelers. High daily traffic volume (>45,000 PCU).",
+    "aiSummary": "Critical 2-foot crater in center lane of arterial corridor opposite Metro Pillar 42 causing vehicle damage and rider skidding.",
+    "area": "Indiranagar",
+    "address": "100 Feet Road, Near 12th Main Junction, Indiranagar",
+    "coordinates": {
+      "lat": 12.9784,
+      "lng": 77.6408
+    },
+    "imageUrl": "/src/assets/images/pothole_road_1793342885294.jpg",
+    "citizenName": "Aditya Rao",
+    "citizenPhone": "+91 98451 22390",
+    "createdAt": "2026-10-28T08:15:00Z",
+    "updatedAt": "2026-10-29T10:30:00Z",
+    "isDuplicate": false,
+    "duplicateGroupId": "DUP-GRP-001",
+    "citizenUpvotes": 42,
+    "actionBrief": {
+      "recommendedAction": "Rapid cold-mix asphalt patch followed by bitumen roller compaction and reflective traffic cone cordoning.",
+      "assignedCrew": "Zone 4 Emergency Highway Response Unit",
+      "estimatedResolutionHours": 4,
+      "equipmentRequired": [
+        "Cold mix asphalt (1.5 MT)",
+        "Vibratory plate compactor",
+        "Retroreflective hazard cones (6)",
+        "Bitumen tack coat"
+      ],
+      "safetyPrecautions": "Deploy flaggers 50m upstream on arterial lane; coordinate with traffic police to divert to service lane during pouring.",
+      "dispatchCode": "RD-EMERG-401",
+      "generatedAt": "2026-10-28T09:00:00Z",
+      "aiModel": "Gemini 3.8 Flash"
+    },
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-28T08:15:00Z",
+        "note": "Citizen filed report with geo-tagged photograph.",
+        "actor": "Citizen (Aditya Rao)"
+      },
+      {
+        "status": "Under Review",
+        "timestamp": "2026-10-28T08:30:00Z",
+        "note": "AI categorized as Roads (92/100 Critical). Assigned to Roads & Infrastructure.",
+        "actor": "CivicAI Engine"
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-10-28T11:00:00Z",
+        "note": "Work order dispatched to Field Engineer K. Raman.",
+        "actor": "Assistant Executive Engineer"
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-10-29T09:00:00Z",
+        "note": "Asphalt patching crew mobilized on site with compactor.",
+        "actor": "Field Crew Lead"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1002",
+    "title": "Huge crater and broken bitumen on 100ft road Indiranagar",
+    "description": "Very dangerous pothole on 100ft road indiranagar close to the 12th main signal. My bike almost fell over this morning. Please fix before someone gets fatally injured.",
+    "category": "Roads",
+    "department": "Roads & Infrastructure",
+    "status": "In Progress",
+    "priority": "Critical",
+    "priorityScore": 92,
+    "urgencyScore": 9,
+    "publicImpactScore": 10,
+    "priorityExplanation": "Merged with primary incident CIVIC-2026-1001. Duplicate incident in same 50m radius of 12th Main junction.",
+    "aiSummary": "Citizen report of dangerous pothole at 12th Main signal on 100ft Road threatening two-wheeler safety.",
+    "area": "Indiranagar",
+    "address": "Near 12th Main Signal, 100 Feet Rd, Indiranagar",
+    "coordinates": {
+      "lat": 12.9786,
+      "lng": 77.6411
+    },
+    "imageUrl": "/src/assets/images/pothole_road_1793342885294.jpg",
+    "citizenName": "Priya Sharma",
+    "citizenPhone": "+91 97422 10488",
+    "createdAt": "2026-10-28T09:45:00Z",
+    "updatedAt": "2026-10-28T10:00:00Z",
+    "isDuplicate": true,
+    "duplicateGroupId": "DUP-GRP-001",
+    "duplicateOfId": "CIVIC-2026-1001",
+    "duplicateConfidence": 96,
+    "duplicateReason": "High semantic match (96%) and geo-proximity within 35 meters of CIVIC-2026-1001.",
+    "citizenUpvotes": 18,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-28T09:45:00Z",
+        "note": "Citizen complaint received via mobile web app.",
+        "actor": "Citizen (Priya Sharma)"
+      },
+      {
+        "status": "Under Review",
+        "timestamp": "2026-10-28T10:00:00Z",
+        "note": "AI detected 96% duplicate cluster with CIVIC-2026-1001. Linked to prevent redundant crew dispatch.",
+        "actor": "CivicAI Engine"
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-10-29T09:00:00Z",
+        "note": "Linked to active repair work order RD-EMERG-401.",
+        "actor": "Municipal Dispatch"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1003",
+    "title": "Deep road crater opposite metro pillar 42 Indiranagar",
+    "description": "Road surface has caved in on 100 ft road near 12th main crossing right near pillar 42. Metal reinforcement rod visible and loose asphalt gravel flying onto pedestrians.",
+    "category": "Roads",
+    "department": "Roads & Infrastructure",
+    "status": "In Progress",
+    "priority": "Critical",
+    "priorityScore": 92,
+    "urgencyScore": 9,
+    "publicImpactScore": 10,
+    "priorityExplanation": "Merged with primary incident CIVIC-2026-1001. Triplicate citizen verification.",
+    "aiSummary": "Caved road surface with loose debris near pillar 42 on 100 Ft Road.",
+    "area": "Indiranagar",
+    "address": "Opposite Metro Pillar 42, 100 Ft Road, Indiranagar",
+    "coordinates": {
+      "lat": 12.9782,
+      "lng": 77.6406
+    },
+    "citizenName": "Karthik N.",
+    "createdAt": "2026-10-28T11:20:00Z",
+    "updatedAt": "2026-10-28T11:30:00Z",
+    "isDuplicate": true,
+    "duplicateGroupId": "DUP-GRP-001",
+    "duplicateOfId": "CIVIC-2026-1001",
+    "duplicateConfidence": 94,
+    "duplicateReason": "Identical landmark (Metro Pillar 42) and high spatial overlap with primary report CIVIC-2026-1001.",
+    "citizenUpvotes": 12,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-28T11:20:00Z",
+        "note": "Citizen complaint registered.",
+        "actor": "Citizen (Karthik N.)"
+      },
+      {
+        "status": "Under Review",
+        "timestamp": "2026-10-28T11:30:00Z",
+        "note": "AI clustered with DUP-GRP-001. Citizen notified of existing active ticket.",
+        "actor": "CivicAI Engine"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1004",
+    "title": "Severe waterlogging at 8th Cross Railway Underpass with trapped traffic",
+    "description": "Heavy evening downpour caused over 3 feet of stagnant water accumulation in the railway underpass. Two cars and a private delivery van are currently stalled. The primary suction pump appears non-operational. Water is creeping into nearby ground-floor commercial shops.",
+    "category": "Drainage",
+    "department": "Stormwater & Drainage",
+    "status": "Submitted",
+    "priority": "Critical",
+    "priorityScore": 98,
+    "urgencyScore": 10,
+    "publicImpactScore": 10,
+    "priorityExplanation": "Immediate public safety emergency: submerged underpass with trapped civilian vehicles, electrical hazard risk, and complete cutoff of critical cross-ward connectivity.",
+    "aiSummary": "Critical 3-foot flash flooding in railway underpass with stalled vehicles and failed stormwater suction pump.",
+    "area": "Malleshwaram",
+    "address": "8th Cross Railway Subway, Margosa Road, Malleshwaram",
+    "coordinates": {
+      "lat": 13.0031,
+      "lng": 77.5702
+    },
+    "imageUrl": "/src/assets/images/waterlogged_street_1793342886838.jpg",
+    "citizenName": "Dr. Srinivas Murthy",
+    "citizenPhone": "+91 94480 34912",
+    "createdAt": "2026-10-29T16:40:00Z",
+    "updatedAt": "2026-10-29T16:45:00Z",
+    "isDuplicate": false,
+    "duplicateGroupId": "DUP-GRP-002",
+    "citizenUpvotes": 56,
+    "actionBrief": {
+      "recommendedAction": "Immediate deployment of high-capacity diesel dewatering pump (150 HP), clear stormwater intake grates of silt, and bar underpass entrance.",
+      "assignedCrew": "Zone 2 Monsoon Emergency Quick-Response Battalion",
+      "estimatedResolutionHours": 2,
+      "equipmentRequired": [
+        "150 HP Mobile Diesel Dewatering Pump",
+        "Suction hoses (40m)",
+        "Emergency barrier barricades",
+        "Submersible trash pump"
+      ],
+      "safetyPrecautions": "Shut down low-level junction street lighting circuits before pumping to avoid electrocution risk in standing water.",
+      "dispatchCode": "DRN-PUMP-902",
+      "generatedAt": "2026-10-29T16:42:00Z",
+      "aiModel": "Gemini 3.8 Flash"
+    },
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-29T16:40:00Z",
+        "note": "Emergency waterlogging alert flagged with high severity score.",
+        "actor": "Citizen (Dr. Srinivas Murthy)"
+      },
+      {
+        "status": "Under Review",
+        "timestamp": "2026-10-29T16:42:00Z",
+        "note": "AI escalated to Critical (98/100) due to trapped transit corridor.",
+        "actor": "CivicAI Engine"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1005",
+    "title": "Malleshwaram railway underpass flooded completely submerged",
+    "description": "Subway underpass on 8th cross is like a swimming pool! Water is waist-deep. Vehicles turning back in panic causing 2km traffic jam. Ambulance sirens blaring stuck in jam.",
+    "category": "Drainage",
+    "department": "Stormwater & Drainage",
+    "status": "Submitted",
+    "priority": "Critical",
+    "priorityScore": 98,
+    "urgencyScore": 10,
+    "publicImpactScore": 10,
+    "priorityExplanation": "Clustered with primary incident CIVIC-2026-1004. Emergency priority escalated due to ambulance delay report.",
+    "aiSummary": "Waist-deep subway flooding halting traffic and blocking emergency emergency medical transit.",
+    "area": "Malleshwaram",
+    "address": "Railway Underpass, 8th Cross Rd, Malleshwaram West",
+    "coordinates": {
+      "lat": 13.0034,
+      "lng": 77.5705
+    },
+    "imageUrl": "/src/assets/images/waterlogged_street_1793342886838.jpg",
+    "citizenName": "Meenakshi Iyer",
+    "createdAt": "2026-10-29T17:05:00Z",
+    "updatedAt": "2026-10-29T17:10:00Z",
+    "isDuplicate": true,
+    "duplicateGroupId": "DUP-GRP-002",
+    "duplicateOfId": "CIVIC-2026-1004",
+    "duplicateConfidence": 95,
+    "duplicateReason": "Identical emergency location and event cluster matching CIVIC-2026-1004 within 40m radius.",
+    "citizenUpvotes": 29,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-29T17:05:00Z",
+        "note": "High urgency mobile report received.",
+        "actor": "Citizen (Meenakshi Iyer)"
+      },
+      {
+        "status": "Under Review",
+        "timestamp": "2026-10-29T17:10:00Z",
+        "note": "AI consolidated into existing response ticket DUP-GRP-002.",
+        "actor": "CivicAI Engine"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1006",
+    "title": "Commercial street central dumpster overflowing onto pedestrian walkway",
+    "description": "The large green public municipal dumpster at the corner of Commercial Street and Dispensary Road has not been cleared for four consecutive days. Organic waste and packaging debris are spilling 15 feet onto the street. Stray dogs and cows are ripping bags, foul odor is overwhelming nearby retail shops.",
+    "category": "Waste",
+    "department": "Solid Waste Management",
+    "status": "Assigned",
+    "priority": "High",
+    "priorityScore": 84,
+    "urgencyScore": 8,
+    "publicImpactScore": 9,
+    "priorityExplanation": "Severe sanitation and public health hazard in high-density pedestrian commercial center with food vendors nearby.",
+    "aiSummary": "Uncleared municipal dumpster spilling garbage across 15ft of high-traffic pedestrian walkway.",
+    "area": "MG Road Hub",
+    "address": "Corner of Commercial St & Dispensary Road, Tasker Town",
+    "coordinates": {
+      "lat": 12.9818,
+      "lng": 77.6083
+    },
+    "imageUrl": "/src/assets/images/overflowing_waste_1793342885872.jpg",
+    "citizenName": "Farooq Merchant",
+    "citizenPhone": "+91 98860 11920",
+    "createdAt": "2026-10-27T10:10:00Z",
+    "updatedAt": "2026-10-29T08:00:00Z",
+    "isDuplicate": false,
+    "duplicateGroupId": "DUP-GRP-003",
+    "citizenUpvotes": 38,
+    "actionBrief": {
+      "recommendedAction": "Dispatch hydraulic compactor truck for bulk evacuation, followed by mechanized floor scrubbing and lime powder sanitization.",
+      "assignedCrew": "Central Business District Sanitation Unit B",
+      "estimatedResolutionHours": 3,
+      "equipmentRequired": [
+        "Hydraulic Waste Compactor Truck (12 ton)",
+        "Pressure jet washer",
+        "Disinfectant lime powder (50kg)",
+        "Heavy-duty gloves and shovels"
+      ],
+      "safetyPrecautions": "Field crew to wear chemical-resistant respiratory masks and high-visibility PPE in active pedestrian alley.",
+      "dispatchCode": "SWM-CLR-204",
+      "generatedAt": "2026-10-27T11:00:00Z",
+      "aiModel": "Gemini 3.8 Flash"
+    },
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-27T10:10:00Z",
+        "note": "Merchant association complaint lodged.",
+        "actor": "Citizen (Farooq Merchant)"
+      },
+      {
+        "status": "Under Review",
+        "timestamp": "2026-10-27T10:30:00Z",
+        "note": "AI validated Waste category and assigned High priority.",
+        "actor": "CivicAI Engine"
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-10-29T08:00:00Z",
+        "note": "Work order SWM-CLR-204 assigned to Ward 110 Health Inspector.",
+        "actor": "Zonal SWM Supervisor"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1007",
+    "title": "Dispensary road garbage bin overflow terrible stink",
+    "description": "Huge pile of rotting garbage outside Commercial street near Dispensary road. Shopkeepers are closing shutters because of the flies and bad smell. Urgent cleanup needed.",
+    "category": "Waste",
+    "department": "Solid Waste Management",
+    "status": "Assigned",
+    "priority": "High",
+    "priorityScore": 84,
+    "urgencyScore": 8,
+    "publicImpactScore": 9,
+    "priorityExplanation": "Duplicate of CIVIC-2026-1006. Confirms commercial disruption.",
+    "aiSummary": "Rotting waste accumulation disrupting commercial retail operations on Dispensary Road.",
+    "area": "MG Road Hub",
+    "address": "Dispensary Rd junction near Commercial Street",
+    "coordinates": {
+      "lat": 12.9821,
+      "lng": 77.6085
+    },
+    "imageUrl": "/src/assets/images/overflowing_waste_1793342885872.jpg",
+    "citizenName": "Anand Kumar",
+    "createdAt": "2026-10-27T14:20:00Z",
+    "updatedAt": "2026-10-27T14:40:00Z",
+    "isDuplicate": true,
+    "duplicateGroupId": "DUP-GRP-003",
+    "duplicateOfId": "CIVIC-2026-1006",
+    "duplicateConfidence": 91,
+    "duplicateReason": "Same landmark corridor and identical waste overflow reported.",
+    "citizenUpvotes": 14,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-27T14:20:00Z",
+        "note": "Second citizen complaint filed.",
+        "actor": "Citizen (Anand Kumar)"
+      },
+      {
+        "status": "Under Review",
+        "timestamp": "2026-10-27T14:40:00Z",
+        "note": "Grouped with CIVIC-2026-1006.",
+        "actor": "CivicAI Engine"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1008",
+    "title": "Damaged street light pole with exposed live wiring on ITPL Main Road",
+    "description": "An octagonal streetlight pole was knocked loose by a delivery truck near ITPL Gate 3. The luminaire head is dangling precariously, and the lower maintenance access cover has sheared off, leaving open 230V electrical cables at child height right outside the bus stop.",
+    "category": "Electricity",
+    "department": "Electricity & Energy Board",
+    "status": "In Progress",
+    "priority": "Critical",
+    "priorityScore": 95,
+    "urgencyScore": 10,
+    "publicImpactScore": 9,
+    "priorityExplanation": "Extreme electrocution and structural falling risk at crowded tech park transit hub with rain expected.",
+    "aiSummary": "Loose street pole with exposed 230V electrical cables and dangling fixture at high-footfall bus shelter.",
+    "area": "Whitefield",
+    "address": "ITPL Main Road, Outside Gate 3 Bus Shelter, Whitefield",
+    "coordinates": {
+      "lat": 12.9868,
+      "lng": 77.7291
+    },
+    "imageUrl": "/src/assets/images/broken_streetlight_1793342887075.jpg",
+    "citizenName": "Sneha Banerjee",
+    "citizenPhone": "+91 99002 81177",
+    "createdAt": "2026-10-28T19:30:00Z",
+    "updatedAt": "2026-10-29T11:15:00Z",
+    "isDuplicate": false,
+    "duplicateGroupId": "DUP-GRP-004",
+    "citizenUpvotes": 61,
+    "actionBrief": {
+      "recommendedAction": "Isolate feeder junction box circuit 4B immediately. Dispatch crane bucket truck to dismount damaged luminaire and re-terminate cables inside waterproof enclosure.",
+      "assignedCrew": "Zone 5 Electrical Emergency Linemen Unit",
+      "estimatedResolutionHours": 2.5,
+      "equipmentRequired": [
+        "Hydraulic bucket crane truck",
+        "Digital voltage tester & insulation kit",
+        "Replacement 120W LED fixture",
+        "Fiberglass enclosure hatch"
+      ],
+      "safetyPrecautions": "Ensure LOTO (Lockout/Tagout) verified on Substation Feeder 12 before touching exposed copper conductors.",
+      "dispatchCode": "ELEC-HAZ-105",
+      "generatedAt": "2026-10-28T19:40:00Z",
+      "aiModel": "Gemini 3.8 Flash"
+    },
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-28T19:30:00Z",
+        "note": "Emergency report filed by commuter.",
+        "actor": "Citizen (Sneha Banerjee)"
+      },
+      {
+        "status": "Under Review",
+        "timestamp": "2026-10-28T19:40:00Z",
+        "note": "CivicAI flagged Critical life safety hazard (95/100). Auto-notified substation desk.",
+        "actor": "CivicAI Engine"
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-10-28T20:00:00Z",
+        "note": "Lineman Assistant Engineer D. Joseph assigned emergency order.",
+        "actor": "Grid Control Officer"
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-10-29T08:30:00Z",
+        "note": "Circuit isolated; bucket truck onsite conducting structural pole replacement.",
+        "actor": "Field Lineman Crew"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1009",
+    "title": "Exposed live wires at ITPL gate 3 bus stand streetlight broken",
+    "description": "Electric wires open near ITPL gate 3 bus shelter. Streetlight pole hit by truck. Sparking was noticed when it drizzled. Very unsafe for passengers boarding bus in dark.",
+    "category": "Electricity",
+    "department": "Electricity & Energy Board",
+    "status": "In Progress",
+    "priority": "Critical",
+    "priorityScore": 95,
+    "urgencyScore": 10,
+    "publicImpactScore": 9,
+    "priorityExplanation": "Clustered duplicate of CIVIC-2026-1008. Sparks reported during rain.",
+    "aiSummary": "Sparking hazard and exposed electrical wiring at bus shelter near ITPL.",
+    "area": "Whitefield",
+    "address": "Near ITPL Gate 3, Whitefield Main Road",
+    "coordinates": {
+      "lat": 12.987,
+      "lng": 77.7294
+    },
+    "imageUrl": "/src/assets/images/broken_streetlight_1793342887075.jpg",
+    "citizenName": "Rahul Varma",
+    "createdAt": "2026-10-28T20:15:00Z",
+    "updatedAt": "2026-10-28T20:30:00Z",
+    "isDuplicate": true,
+    "duplicateGroupId": "DUP-GRP-004",
+    "duplicateOfId": "CIVIC-2026-1008",
+    "duplicateConfidence": 97,
+    "duplicateReason": "Same asset and location reported within 45 minutes with identical risk factor (exposed live wires at bus stand).",
+    "citizenUpvotes": 22,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-28T20:15:00Z",
+        "note": "Citizen emergency alert.",
+        "actor": "Citizen (Rahul Varma)"
+      },
+      {
+        "status": "Under Review",
+        "timestamp": "2026-10-28T20:30:00Z",
+        "note": "Linked to active incident CIVIC-2026-1008.",
+        "actor": "CivicAI Engine"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1010",
+    "title": "Major stormwater primary drain choked with construction debris and solid silt",
+    "description": "The primary secondary stormwater canal running along 80 Feet Road in Koramangala 4th Block has been choked over 80% by dumped demolition concrete chunks and plastic bags. Even moderate rains cause murky sewer water to overflow into residential ground floors and basements.",
+    "category": "Drainage",
+    "department": "Stormwater & Drainage",
+    "status": "Under Review",
+    "priority": "High",
+    "priorityScore": 86,
+    "urgencyScore": 8,
+    "publicImpactScore": 9,
+    "priorityExplanation": "High flood risk for over 120 residential homes and basement parking structures during upcoming meteorological department alert.",
+    "aiSummary": "Primary stormwater canal 80% obstructed by dumped construction silt threatening residential basements.",
+    "area": "Koramangala",
+    "address": "80 Feet Road, Adjacent to 4th Block Park, Koramangala",
+    "coordinates": {
+      "lat": 12.9344,
+      "lng": 77.6256
+    },
+    "imageUrl": "/src/assets/images/waterlogged_street_1793342886838.jpg",
+    "citizenName": "Girish Menon",
+    "citizenPhone": "+91 97400 99231",
+    "createdAt": "2026-10-29T07:20:00Z",
+    "updatedAt": "2026-10-29T07:30:00Z",
+    "isDuplicate": false,
+    "duplicateGroupId": "DUP-GRP-005",
+    "citizenUpvotes": 35,
+    "actionBrief": {
+      "recommendedAction": "Deploy long-reach hydraulic excavator to dredge 120 meters of choked canal; haul debris in dump trucks to designated quarry.",
+      "assignedCrew": "Stormwater Major Drains Wing (South)",
+      "estimatedResolutionHours": 8,
+      "equipmentRequired": [
+        "Long-reach hydraulic excavator (JCB/Poclain)",
+        "Tipping dump trucks (3)",
+        "Silt dredging cages",
+        "Safety harness lines"
+      ],
+      "safetyPrecautions": "Ensure toxic gas (H2S, methane) testing before workers enter canal bed; enforce mandatory harness attachment.",
+      "dispatchCode": "DRN-DREDGE-301",
+      "generatedAt": "2026-10-29T07:25:00Z",
+      "aiModel": "Gemini 3.8 Flash"
+    },
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-29T07:20:00Z",
+        "note": "Resident welfare association submitted grievance with photo evidence.",
+        "actor": "Citizen (Girish Menon)"
+      },
+      {
+        "status": "Under Review",
+        "timestamp": "2026-10-29T07:25:00Z",
+        "note": "AI validated Drainage category (High priority 86/100). Hotspot zone Koramangala.",
+        "actor": "CivicAI Engine"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1011",
+    "title": "Koramangala 4th block stormwater drain completely blocked with trash",
+    "description": "The big drain next to 4th block park is filled with garbage bags and construction sand. Water cannot pass through at all. Smells horrific and breeding mosquitoes.",
+    "category": "Drainage",
+    "department": "Stormwater & Drainage",
+    "status": "Under Review",
+    "priority": "High",
+    "priorityScore": 86,
+    "urgencyScore": 8,
+    "publicImpactScore": 9,
+    "priorityExplanation": "Clustered duplicate of CIVIC-2026-1010. Confirms mosquito breeding and severe flow blockage.",
+    "aiSummary": "Canal adjacent to 4th Block park choked with solid debris and stagnant water.",
+    "area": "Koramangala",
+    "address": "Near 4th Block Park canal, Koramangala",
+    "coordinates": {
+      "lat": 12.9348,
+      "lng": 77.6259
+    },
+    "citizenName": "Anita Krishnan",
+    "createdAt": "2026-10-29T08:50:00Z",
+    "updatedAt": "2026-10-29T09:00:00Z",
+    "isDuplicate": true,
+    "duplicateGroupId": "DUP-GRP-005",
+    "duplicateOfId": "CIVIC-2026-1010",
+    "duplicateConfidence": 93,
+    "duplicateReason": "Exact match with 4th Block park drain blockage reported in CIVIC-2026-1010.",
+    "citizenUpvotes": 19,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-29T08:50:00Z",
+        "note": "Citizen grievance registered.",
+        "actor": "Citizen (Anita Krishnan)"
+      },
+      {
+        "status": "Under Review",
+        "timestamp": "2026-10-29T09:00:00Z",
+        "note": "Clustered under DUP-GRP-005 to prevent duplicate dispatch.",
+        "actor": "CivicAI Engine"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1012",
+    "title": "High-pressure potable water distribution pipeline ruptured flooding 14th Main",
+    "description": "A 600mm DI potable water transmission pipe burst during morning pump pressurization on 14th Main HSR Sector 1. Thousands of liters of clean drinking water are gushing out like a geyser, inundating three cross streets and causing soil erosion under the road foundation.",
+    "category": "Water",
+    "department": "Water Supply & Sewerage",
+    "status": "In Progress",
+    "priority": "Critical",
+    "priorityScore": 94,
+    "urgencyScore": 10,
+    "publicImpactScore": 9,
+    "priorityExplanation": "Massive loss of treated municipal potable water supply for ~2,500 households, coupled with road collapse hazard due to soil liquefaction.",
+    "aiSummary": "600mm main potable pipe burst causing massive clean water flooding and roadbed undermining.",
+    "area": "HSR Layout",
+    "address": "14th Main Road, Sector 1, Near Agara Lake Junction, HSR Layout",
+    "coordinates": {
+      "lat": 12.9165,
+      "lng": 77.6512
+    },
+    "imageUrl": "/src/assets/images/waterlogged_street_1793342886838.jpg",
+    "citizenName": "Rajesh Gopinath",
+    "citizenPhone": "+91 98440 51199",
+    "createdAt": "2026-10-29T06:15:00Z",
+    "updatedAt": "2026-10-29T08:30:00Z",
+    "isDuplicate": false,
+    "duplicateGroupId": "DUP-GRP-006",
+    "citizenUpvotes": 49,
+    "actionBrief": {
+      "recommendedAction": "Emergency shutdown of Sector 1 booster valves at Agara Pumping Station. Excavate trench, cut fractured pipe segment, and install quick-lock repair collar.",
+      "assignedCrew": "Water Board Rapid Pipeline Repair Team 1",
+      "estimatedResolutionHours": 5,
+      "equipmentRequired": [
+        "Hydraulic trench cutter",
+        "600mm DI Mechanical Coupling Collar",
+        "Submersible sludge pump",
+        "Emergency valve keys"
+      ],
+      "safetyPrecautions": "Ensure nearby underground electric duct isolation before mechanized trenching.",
+      "dispatchCode": "WTR-BURST-108",
+      "generatedAt": "2026-10-29T06:25:00Z",
+      "aiModel": "Gemini 3.8 Flash"
+    },
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-29T06:15:00Z",
+        "note": "Emergency citizen ticket submitted.",
+        "actor": "Citizen (Rajesh Gopinath)"
+      },
+      {
+        "status": "Under Review",
+        "timestamp": "2026-10-29T06:25:00Z",
+        "note": "CivicAI flagged Critical (94/100). Auto-alerted water pumping station.",
+        "actor": "CivicAI Engine"
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-10-29T06:45:00Z",
+        "note": "Chief Pipeline Engineer M. Hegde dispatched with repair squad.",
+        "actor": "Water Board Operations"
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-10-29T07:30:00Z",
+        "note": "Valves throttled; trenching underway to seat repair clamp.",
+        "actor": "Field Pipeline Crew"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1013",
+    "title": "Huge water fountain on 14th main HSR sector 1 drinking water wasted",
+    "description": "Fresh clean drinking water bursting through asphalt road on 14th main HSR layout! Road is completely flooded and water pressure at our home has dropped to zero.",
+    "category": "Water",
+    "department": "Water Supply & Sewerage",
+    "status": "In Progress",
+    "priority": "Critical",
+    "priorityScore": 94,
+    "urgencyScore": 10,
+    "publicImpactScore": 9,
+    "priorityExplanation": "Clustered duplicate of CIVIC-2026-1012.",
+    "aiSummary": "Drinking water pipe burst on 14th Main HSR causing localized flood and pressure loss.",
+    "area": "HSR Layout",
+    "address": "14th Main Rd, Sector 1, HSR Layout",
+    "coordinates": {
+      "lat": 12.9168,
+      "lng": 77.6515
+    },
+    "citizenName": "Kavita Sundar",
+    "createdAt": "2026-10-29T06:50:00Z",
+    "updatedAt": "2026-10-29T07:00:00Z",
+    "isDuplicate": true,
+    "duplicateGroupId": "DUP-GRP-006",
+    "duplicateOfId": "CIVIC-2026-1012",
+    "duplicateConfidence": 96,
+    "duplicateReason": "Identical rupture event on 14th Main Sector 1 within 30 meters.",
+    "citizenUpvotes": 21,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-29T06:50:00Z",
+        "note": "Duplicate report received.",
+        "actor": "Citizen (Kavita Sundar)"
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-10-29T07:30:00Z",
+        "note": "Merged into ticket WTR-BURST-108.",
+        "actor": "CivicAI Engine"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1014",
+    "title": "Missing heavy cast iron sewer manhole cover on unlit pedestrian footpath",
+    "description": "A 3-foot circular sewer manhole cover is completely missing on the footpath outside the Post Office in Jayanagar 4th Block. The opening drops 12 feet straight into an active sewer. Because street foliage blocks light, an elderly pedestrian narrowly escaped falling in. Extremely urgent safety threat.",
+    "category": "Public Safety",
+    "department": "Public Safety & Vigilance",
+    "status": "Assigned",
+    "priority": "Critical",
+    "priorityScore": 96,
+    "urgencyScore": 10,
+    "publicImpactScore": 9,
+    "priorityExplanation": "Imminent life-threatening fatal fall hazard on active pedestrian sidewalk near post office and pharmacy.",
+    "aiSummary": "Uncovered 12-foot sewer manhole on unlit sidewalk posing extreme pedestrian fall hazard.",
+    "area": "Jayanagar",
+    "address": "11th Main Road, Outside Head Post Office, Jayanagar 4th Block",
+    "coordinates": {
+      "lat": 12.9298,
+      "lng": 77.5842
+    },
+    "imageUrl": "/src/assets/images/waterlogged_street_1793342886838.jpg",
+    "citizenName": "Venkatraman Swamy",
+    "citizenPhone": "+91 94490 88201",
+    "createdAt": "2026-10-29T11:00:00Z",
+    "updatedAt": "2026-10-29T12:00:00Z",
+    "isDuplicate": false,
+    "duplicateGroupId": "DUP-GRP-007",
+    "citizenUpvotes": 68,
+    "actionBrief": {
+      "recommendedAction": "Immediate placement of high-visibility barricade and flashing safety beacon, followed by installation of heavy-duty ductile iron SFRC replacement manhole cover.",
+      "assignedCrew": "Zone 7 Municipal Safety Quick Response Squad",
+      "estimatedResolutionHours": 1.5,
+      "equipmentRequired": [
+        "Ductile iron manhole cover (class D400 900mm)",
+        "Barricade safety fence (4 panels)",
+        "Flashing solar warning beacon",
+        "Cold asphalt leveling patch"
+      ],
+      "safetyPrecautions": "Never leave manhole unbarricaded for even 1 minute; maintain continuous visual perimeter guard until cover is secured in rim seat.",
+      "dispatchCode": "SAF-OPEN-701",
+      "generatedAt": "2026-10-29T11:05:00Z",
+      "aiModel": "Gemini 3.8 Flash"
+    },
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-29T11:00:00Z",
+        "note": "Urgent public safety grievance logged.",
+        "actor": "Citizen (Venkatraman Swamy)"
+      },
+      {
+        "status": "Under Review",
+        "timestamp": "2026-10-29T11:05:00Z",
+        "note": "AI classified as Critical Public Safety (96/100). Generated immediate safety brief.",
+        "actor": "CivicAI Engine"
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-10-29T11:30:00Z",
+        "note": "Emergency crew dispatched with ductile iron replacement lid.",
+        "actor": "Zonal Assistant Commissioner"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1015",
+    "title": "Open manhole danger near post office Jayanagar 4th block",
+    "description": "Manhole lid missing on footpath outside post office. Someone put a fragile tree branch inside as a warning sign. Any child or senior citizen could fall in and drown.",
+    "category": "Public Safety",
+    "department": "Public Safety & Vigilance",
+    "status": "Assigned",
+    "priority": "Critical",
+    "priorityScore": 96,
+    "urgencyScore": 10,
+    "publicImpactScore": 9,
+    "priorityExplanation": "Clustered duplicate of CIVIC-2026-1014.",
+    "aiSummary": "Deep open manhole on footpath with temporary branch warning.",
+    "area": "Jayanagar",
+    "address": "Near Post Office, 11th Main, Jayanagar 4th Block",
+    "coordinates": {
+      "lat": 12.9299,
+      "lng": 77.5844
+    },
+    "citizenName": "Sunita Bhat",
+    "createdAt": "2026-10-29T11:45:00Z",
+    "updatedAt": "2026-10-29T12:00:00Z",
+    "isDuplicate": true,
+    "duplicateGroupId": "DUP-GRP-007",
+    "duplicateOfId": "CIVIC-2026-1014",
+    "duplicateConfidence": 98,
+    "duplicateReason": "Exact same location (Jayanagar post office sidewalk) and identical missing manhole hazard.",
+    "citizenUpvotes": 24,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-29T11:45:00Z",
+        "note": "Duplicate safety alert.",
+        "actor": "Citizen (Sunita Bhat)"
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-10-29T12:00:00Z",
+        "note": "Linked with ticket SAF-OPEN-701.",
+        "actor": "CivicAI Engine"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1016",
+    "title": "Raw sewage overflow from inspection chamber into residential street",
+    "description": "Sewer manhole at 3rd Cross Hebbal Kempapura has backed up due to underground block. Untreated blackwater is overflowing into residential compound gates, causing severe biohazard and stench.",
+    "category": "Drainage",
+    "department": "Stormwater & Drainage",
+    "status": "Assigned",
+    "priority": "High",
+    "priorityScore": 88,
+    "urgencyScore": 9,
+    "publicImpactScore": 8,
+    "priorityExplanation": "Biohazard risk from raw sewage stagnation near domestic water sumps in residential enclave.",
+    "aiSummary": "Sewage inspection chamber overflowing raw blackwater into residential gates at Hebbal.",
+    "area": "Hebbal",
+    "address": "3rd Cross, Kempapura Main Road, Hebbal",
+    "coordinates": {
+      "lat": 13.0489,
+      "lng": 77.5925
+    },
+    "citizenName": "Manjunath Reddy",
+    "createdAt": "2026-10-28T14:10:00Z",
+    "updatedAt": "2026-10-29T09:00:00Z",
+    "citizenUpvotes": 27,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-28T14:10:00Z",
+        "note": "Grievance submitted by local resident.",
+        "actor": "Citizen (Manjunath Reddy)"
+      },
+      {
+        "status": "Under Review",
+        "timestamp": "2026-10-28T14:25:00Z",
+        "note": "Categorized as Drainage, High priority.",
+        "actor": "CivicAI Engine"
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-10-29T09:00:00Z",
+        "note": "Jetting machine unit dispatched for de-silting sewer line.",
+        "actor": "Sanitary Inspector"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1017",
+    "title": "Multiple streetlights non-functional on Hebbal Ring Road flyover ramp",
+    "description": "A stretch of seven consecutive LED streetlights on the Hebbal flyover entry ramp has been completely dead for over a week, leading to blind spots and high accident risk for night commuters.",
+    "category": "Electricity",
+    "department": "Electricity & Energy Board",
+    "status": "In Progress",
+    "priority": "High",
+    "priorityScore": 78,
+    "urgencyScore": 7,
+    "publicImpactScore": 8,
+    "priorityExplanation": "High-speed flyover ramp with zero illumination causing acute vehicular collision hazard.",
+    "aiSummary": "Seven consecutive dead streetlights creating pitch-black blind spot on flyover approach ramp.",
+    "area": "Hebbal",
+    "address": "Hebbal Flyover Entry Ramp toward International Airport Road",
+    "coordinates": {
+      "lat": 13.0381,
+      "lng": 77.5912
+    },
+    "imageUrl": "/src/assets/images/broken_streetlight_1793342887075.jpg",
+    "citizenName": "Vikram Joshi",
+    "createdAt": "2026-10-26T21:00:00Z",
+    "updatedAt": "2026-10-29T10:00:00Z",
+    "citizenUpvotes": 31,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-26T21:00:00Z",
+        "note": "Report filed with photo.",
+        "actor": "Citizen (Vikram Joshi)"
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-10-27T10:00:00Z",
+        "note": "Assigned to Streetlight Maintenance Division.",
+        "actor": "Zonal Engineer"
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-10-29T10:00:00Z",
+        "note": "Testing subterranean cable fault; replacement LED driver boards ordered.",
+        "actor": "Field Engineer"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1018",
+    "title": "Illegal construction debris dumped along Agara Lake perimeter walking track",
+    "description": "Three truckloads of concrete rubble, broken floor tiles, and plaster waste have been dumped on the lakeside pedestrian trail and green belt, blocking joggers and contaminating the wetland buffer zone.",
+    "category": "Waste",
+    "department": "Solid Waste Management",
+    "status": "Under Review",
+    "priority": "Medium",
+    "priorityScore": 62,
+    "urgencyScore": 5,
+    "publicImpactScore": 7,
+    "priorityExplanation": "Environmental encroachment and obstruction of recreational public path. Moderate urgency.",
+    "aiSummary": "Three truckloads of construction debris illegally dumped on Agara Lake jogging perimeter.",
+    "area": "HSR Layout",
+    "address": "South Perimeter Track, Agara Lake, HSR Layout",
+    "coordinates": {
+      "lat": 12.9221,
+      "lng": 77.6441
+    },
+    "imageUrl": "/src/assets/images/overflowing_waste_1793342885872.jpg",
+    "citizenName": "Shalini Nambiar",
+    "createdAt": "2026-10-29T09:15:00Z",
+    "updatedAt": "2026-10-29T09:30:00Z",
+    "citizenUpvotes": 18,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-29T09:15:00Z",
+        "note": "Citizen photo report submitted.",
+        "actor": "Citizen (Shalini Nambiar)"
+      },
+      {
+        "status": "Under Review",
+        "timestamp": "2026-10-29T09:30:00Z",
+        "note": "AI assigned Medium priority (62/100). Marshaled to Solid Waste Management.",
+        "actor": "CivicAI Engine"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1019",
+    "title": "Dislodged granite road divider curbs causing vehicle undercarriage collisions",
+    "description": "Heavy granite curb stones separating the bus lane from mixed traffic have been displaced and shoved into the carriageway near Forum Mall junction, posing a high collision risk at night.",
+    "category": "Roads",
+    "department": "Roads & Infrastructure",
+    "status": "Resolved",
+    "priority": "High",
+    "priorityScore": 79,
+    "urgencyScore": 8,
+    "publicImpactScore": 8,
+    "priorityExplanation": "Physical roadway obstacle on rapid transit corridor. Successfully realigned and re-mortared.",
+    "aiSummary": "Displaced granite median curbs jutting into vehicular lane successfully repaired.",
+    "area": "Koramangala",
+    "address": "Hosur Road, Near Forum Mall Junction, Koramangala",
+    "coordinates": {
+      "lat": 12.9349,
+      "lng": 77.6111
+    },
+    "citizenName": "Rohan Deshmukh",
+    "createdAt": "2026-10-25T11:00:00Z",
+    "updatedAt": "2026-10-28T16:00:00Z",
+    "citizenUpvotes": 41,
+    "actionBrief": {
+      "recommendedAction": "Crane lifting and reset of 6 displaced granite curbs in reinforced concrete mortar bed with reflective yellow curb paint.",
+      "assignedCrew": "Central Highway Maintenance Depot",
+      "estimatedResolutionHours": 3,
+      "equipmentRequired": [
+        "Mini mobile crane",
+        "Quick-setting mortar (10 bags)",
+        "Reflective traffic barrier paint"
+      ],
+      "safetyPrecautions": "Work during off-peak hours (11 PM - 4 AM) under police road closure notice.",
+      "dispatchCode": "RD-CURB-210",
+      "generatedAt": "2026-10-25T11:30:00Z",
+      "aiModel": "Gemini 3.8 Flash"
+    },
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-25T11:00:00Z",
+        "note": "Citizen grievance filed.",
+        "actor": "Citizen (Rohan Deshmukh)"
+      },
+      {
+        "status": "Under Review",
+        "timestamp": "2026-10-25T11:30:00Z",
+        "note": "AI escalated due to arterial traffic risk.",
+        "actor": "CivicAI Engine"
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-10-26T09:00:00Z",
+        "note": "Work order RD-CURB-210 approved.",
+        "actor": "Executive Engineer"
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-10-27T23:00:00Z",
+        "note": "Night repair underway with crane truck.",
+        "actor": "Highway Depot"
+      },
+      {
+        "status": "Resolved",
+        "timestamp": "2026-10-28T16:00:00Z",
+        "note": "Curbs reset in concrete foundation, painted with high-gloss reflective yellow. Verified by field inspection.",
+        "actor": "Quality Inspector S. Patil"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1020",
+    "title": "Low water pressure and discolored turbid tap water in residential block",
+    "description": "For three days, tap water in 6th Block Koramangala has had a rusty brown tint and muddy odor. Water pressure is inadequate to fill overhead tanks, forcing residents to purchase private water tankers.",
+    "category": "Water",
+    "department": "Water Supply & Sewerage",
+    "status": "In Progress",
+    "priority": "High",
+    "priorityScore": 76,
+    "urgencyScore": 8,
+    "publicImpactScore": 7,
+    "priorityExplanation": "Potential cross-contamination between drinking water pipe and stormwater line affecting domestic public health.",
+    "aiSummary": "Turbid contaminated tap water and severe pressure drop in Koramangala 6th Block.",
+    "area": "Koramangala",
+    "address": "17th G Main, 6th Block, Koramangala",
+    "coordinates": {
+      "lat": 12.9372,
+      "lng": 77.6208
+    },
+    "citizenName": "Bhavna Kulkarni",
+    "createdAt": "2026-10-27T16:45:00Z",
+    "updatedAt": "2026-10-29T11:00:00Z",
+    "citizenUpvotes": 23,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-27T16:45:00Z",
+        "note": "Resident complaint filed.",
+        "actor": "Citizen (Bhavna Kulkarni)"
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-10-28T09:00:00Z",
+        "note": "Assigned to Water Quality Testing lab.",
+        "actor": "Zonal Water Inspector"
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-10-29T11:00:00Z",
+        "note": "Water samples collected for microbiological assay; pipeline flushing commenced.",
+        "actor": "Water Board Technician"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1021",
+    "title": "Fallen mature tree branch leaning on low-tension power cables",
+    "description": "A massive gulmohar bough broke during heavy winds and is resting heavily on three secondary electric phase wires outside an apartment complex. Branch is swaying and touching metal balcony railings.",
+    "category": "Electricity",
+    "department": "Electricity & Energy Board",
+    "status": "Resolved",
+    "priority": "Critical",
+    "priorityScore": 93,
+    "urgencyScore": 10,
+    "publicImpactScore": 8,
+    "priorityExplanation": "Live branch contact on distribution cables risking snapping, arc flashes, and residential building electrification.",
+    "aiSummary": "Fallen gulmohar branch weighing down 3-phase power lines adjacent to apartment balconies.",
+    "area": "Indiranagar",
+    "address": "6th Main Road, Defense Colony, Indiranagar",
+    "coordinates": {
+      "lat": 12.9731,
+      "lng": 77.6432
+    },
+    "citizenName": "Col. Suresh Nair (Retd.)",
+    "createdAt": "2026-10-26T18:00:00Z",
+    "updatedAt": "2026-10-27T11:30:00Z",
+    "citizenUpvotes": 39,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-26T18:00:00Z",
+        "note": "Emergency report logged.",
+        "actor": "Citizen (Col. Suresh Nair)"
+      },
+      {
+        "status": "Under Review",
+        "timestamp": "2026-10-26T18:10:00Z",
+        "note": "AI categorized as Electricity (Critical 93/100).",
+        "actor": "CivicAI Engine"
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-10-26T18:30:00Z",
+        "note": "Forestry & Linemen joint emergency squad dispatched.",
+        "actor": "Emergency Dispatcher"
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-10-26T19:15:00Z",
+        "note": "Feeder shut down; chainsaw pruning in progress.",
+        "actor": "Forestry Crew"
+      },
+      {
+        "status": "Resolved",
+        "timestamp": "2026-10-27T11:30:00Z",
+        "note": "Branch safely cut and cleared, phase wires retensioned, power restored safely.",
+        "actor": "Junior Engineer T. Samuel"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1022",
+    "title": "Stagnant rainwater breeding mosquitoes in unpaved vacant civic plot",
+    "description": "An open civic amenity plot has turned into an expansive shallow swamp with green algae and dense mosquito swarms. Dengue cases are spiking in adjacent housing societies.",
+    "category": "Drainage",
+    "department": "Stormwater & Drainage",
+    "status": "Submitted",
+    "priority": "Medium",
+    "priorityScore": 58,
+    "urgencyScore": 6,
+    "publicImpactScore": 6,
+    "priorityExplanation": "Public health vector breeding concern over 2-week period. Requires anti-larval spraying and soil grading.",
+    "aiSummary": "Shallow stagnant swamp in vacant civic plot causing localized dengue vector surge.",
+    "area": "Whitefield",
+    "address": "Plot 48, Borewell Road, Near Nallurahalli, Whitefield",
+    "coordinates": {
+      "lat": 12.9692,
+      "lng": 77.7423
+    },
+    "citizenName": "Deepak Chopra",
+    "createdAt": "2026-10-29T10:00:00Z",
+    "updatedAt": "2026-10-29T10:15:00Z",
+    "citizenUpvotes": 11,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-29T10:00:00Z",
+        "note": "Citizen grievance submitted.",
+        "actor": "Citizen (Deepak Chopra)"
+      },
+      {
+        "status": "Under Review",
+        "timestamp": "2026-10-29T10:15:00Z",
+        "note": "AI validated Drainage & Vector Control tag.",
+        "actor": "CivicAI Engine"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1023",
+    "title": "Damaged school crossing zebra crossing sign and faded road markings",
+    "description": "The reflective school warning signboard outside St. Joseph Primary has snapped at its base, and the pedestrian zebra crossing stripes have worn away completely. Vehicles speed past school gates with zero deceleration.",
+    "category": "Public Safety",
+    "department": "Public Safety & Vigilance",
+    "status": "In Progress",
+    "priority": "High",
+    "priorityScore": 82,
+    "urgencyScore": 8,
+    "publicImpactScore": 8,
+    "priorityExplanation": "High child safety vulnerability during morning drop-off and afternoon dismissal periods on busy collector street.",
+    "aiSummary": "Faded zebra crossing and snapped school warning sign creating severe pedestrian hazard for school children.",
+    "area": "Malleshwaram",
+    "address": "15th Cross Road, Outside St. Joseph Primary, Malleshwaram",
+    "coordinates": {
+      "lat": 13.0078,
+      "lng": 77.5678
+    },
+    "citizenName": "Sister Teresa Maria",
+    "createdAt": "2026-10-28T11:00:00Z",
+    "updatedAt": "2026-10-29T09:30:00Z",
+    "citizenUpvotes": 44,
+    "actionBrief": {
+      "recommendedAction": "Install high-visibility fluorescent yellow school zone sign on new steel anchor post; paint thermoplastic reflective zebra crossing with rumble strip speed cushions.",
+      "assignedCrew": "Traffic Safety & Markings Depot",
+      "estimatedResolutionHours": 4,
+      "equipmentRequired": [
+        "Thermoplastic road marking applicator",
+        "Glass bead reflective dispersion unit",
+        "Class 1 Fluorescent School Signboard",
+        "Concrete core drill"
+      ],
+      "safetyPrecautions": "Schedule application on Sunday or school holiday with lane barricades.",
+      "dispatchCode": "SAF-SCH-112",
+      "generatedAt": "2026-10-28T11:15:00Z",
+      "aiModel": "Gemini 3.8 Flash"
+    },
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-28T11:00:00Z",
+        "note": "School principal submitted safety grievance.",
+        "actor": "Citizen (Sister Teresa)"
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-10-28T14:00:00Z",
+        "note": "Assigned to Traffic Infrastructure wing.",
+        "actor": "Superintending Engineer"
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-10-29T09:30:00Z",
+        "note": "Signpost foundation cast; thermoplastic painting booked for weekend.",
+        "actor": "Field Crew"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1024",
+    "title": "Persistent burning of dry leaves and plastic refuse in public park corner",
+    "description": "Sanitation sweepers or miscreants are repeatedly setting fire to large piles of collected leaf litter and plastic packaging in the corner of Madhavan Park instead of composting, creating thick toxic acrid smoke choking morning joggers.",
+    "category": "Waste",
+    "department": "Solid Waste Management",
+    "status": "Under Review",
+    "priority": "Medium",
+    "priorityScore": 65,
+    "urgencyScore": 6,
+    "publicImpactScore": 7,
+    "priorityExplanation": "Air pollution and respiratory irritation violation in designated green public park.",
+    "aiSummary": "Open burning of accumulated leaf mulch and plastic debris inside public park generating toxic smoke.",
+    "area": "Jayanagar",
+    "address": "Madhavan Park, 3rd Block, Jayanagar",
+    "coordinates": {
+      "lat": 12.9361,
+      "lng": 77.5878
+    },
+    "imageUrl": "/src/assets/images/overflowing_waste_1793342885872.jpg",
+    "citizenName": "Arunav Sengupta",
+    "createdAt": "2026-10-29T08:00:00Z",
+    "updatedAt": "2026-10-29T08:15:00Z",
+    "citizenUpvotes": 16,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-29T08:00:00Z",
+        "note": "Citizen grievance filed with photo of smoke plume.",
+        "actor": "Citizen (Arunav Sengupta)"
+      },
+      {
+        "status": "Under Review",
+        "timestamp": "2026-10-29T08:15:00Z",
+        "note": "AI flagged as Waste / Environmental non-compliance.",
+        "actor": "CivicAI Engine"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1025",
+    "title": "Extensive road trench dug by telecom contractor left unpaved without warning",
+    "description": "A 200-meter longitudinal utility trench was cut into the road surface for fiber cable installation three weeks ago. It was backfilled loosely with soil, which has settled leaving a 6-inch sharp asphalt trench that jolts cars and punctures tires.",
+    "category": "Roads",
+    "department": "Roads & Infrastructure",
+    "status": "In Progress",
+    "priority": "High",
+    "priorityScore": 81,
+    "urgencyScore": 8,
+    "publicImpactScore": 8,
+    "priorityExplanation": "Unrestored road cut violating municipal restoration guidelines and inflicting vehicular damage.",
+    "aiSummary": "200m unpaved fiber trench settlement creating tire-slashing road depression.",
+    "area": "HSR Layout",
+    "address": "27th Main Road, Sector 2, HSR Layout",
+    "coordinates": {
+      "lat": 12.9124,
+      "lng": 77.6534
+    },
+    "imageUrl": "/src/assets/images/pothole_road_1793342885294.jpg",
+    "citizenName": "Sameer Qureshi",
+    "createdAt": "2026-10-27T15:00:00Z",
+    "updatedAt": "2026-10-29T09:45:00Z",
+    "citizenUpvotes": 37,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-27T15:00:00Z",
+        "note": "Report lodged by residents.",
+        "actor": "Citizen (Sameer Qureshi)"
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-10-28T10:00:00Z",
+        "note": "Notice issued to telecom concessionaire to restore asphalt under bank guarantee penalty.",
+        "actor": "Assistant Executive Engineer"
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-10-29T09:45:00Z",
+        "note": "Road milling and wet-mix macadam laying initiated.",
+        "actor": "Road Restoration Wing"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1026",
+    "title": "Streetlight pole corroded at base and leaning towards residential veranda",
+    "description": "The steel base of the tubular streetlight pole on 5th Cross Malleshwaram has rusted through completely due to canine urine and monsoon dampness. It has tilted 15 degrees towards a first-floor balcony window.",
+    "category": "Electricity",
+    "department": "Electricity & Energy Board",
+    "status": "Assigned",
+    "priority": "Critical",
+    "priorityScore": 91,
+    "urgencyScore": 9,
+    "publicImpactScore": 9,
+    "priorityExplanation": "Imminent structural collapse of metal utility pole onto private residence and public thoroughfare.",
+    "aiSummary": "Severely rusted tubular streetlight pole tilted 15 degrees toward balcony window.",
+    "area": "Malleshwaram",
+    "address": "5th Cross, Between Temple Street & Sampige Road, Malleshwaram",
+    "coordinates": {
+      "lat": 12.9989,
+      "lng": 77.5714
+    },
+    "imageUrl": "/src/assets/images/broken_streetlight_1793342887075.jpg",
+    "citizenName": "Lakshmi Narayana",
+    "createdAt": "2026-10-29T12:30:00Z",
+    "updatedAt": "2026-10-29T13:00:00Z",
+    "citizenUpvotes": 28,
+    "actionBrief": {
+      "recommendedAction": "Provisional sling tether to prevent falling, followed by immediate crane replacement with modern galvanized steel pole and reinforced concrete collar.",
+      "assignedCrew": "Structural Electrical Safety Gang",
+      "estimatedResolutionHours": 3.5,
+      "equipmentRequired": [
+        "Mobile crane with lifting slings",
+        "Replacement 9m galvanized steel pole",
+        "Quick setting high-strength grout",
+        "Oxygen-acetylene cutter"
+      ],
+      "safetyPrecautions": "Evacuate ground and first floor residents of adjacent building during pole dismantling.",
+      "dispatchCode": "ELEC-POLE-808",
+      "generatedAt": "2026-10-29T12:35:00Z",
+      "aiModel": "Gemini 3.8 Flash"
+    },
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-29T12:30:00Z",
+        "note": "Resident reported tilted pole.",
+        "actor": "Citizen (Lakshmi Narayana)"
+      },
+      {
+        "status": "Under Review",
+        "timestamp": "2026-10-29T12:35:00Z",
+        "note": "AI escalated to Critical structural risk.",
+        "actor": "CivicAI Engine"
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-10-29T13:00:00Z",
+        "note": "Emergency order ELEC-POLE-808 issued.",
+        "actor": "Executive Engineer"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1027",
+    "title": "Blocked rainwater harvest percolation pit causing sidewalk ponding",
+    "description": "The municipal rainwater harvesting recharge pit installed on the sidewalk near MG Road Metro Station is clogged solid with plastic bottle caps and cigarette butts, preventing percolation and causing a 4-inch deep puddle on the walking plaza.",
+    "category": "Drainage",
+    "department": "Stormwater & Drainage",
+    "status": "Resolved",
+    "priority": "Low",
+    "priorityScore": 38,
+    "urgencyScore": 4,
+    "publicImpactScore": 4,
+    "priorityExplanation": "Non-hazardous sidewalk water pooling. Requires standard filter cleaning and gravel layer replacement.",
+    "aiSummary": "Clogged rainwater percolation well causing minor sidewalk puddle near metro station.",
+    "area": "MG Road Hub",
+    "address": "Near MG Road Metro Station Exit B, MG Road",
+    "coordinates": {
+      "lat": 12.9755,
+      "lng": 77.6067
+    },
+    "citizenName": "Tarun Saxena",
+    "createdAt": "2026-10-24T09:00:00Z",
+    "updatedAt": "2026-10-26T15:00:00Z",
+    "citizenUpvotes": 9,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-24T09:00:00Z",
+        "note": "Pedestrian reported puddle.",
+        "actor": "Citizen (Tarun Saxena)"
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-10-25T10:00:00Z",
+        "note": "Assigned to Metro maintenance team.",
+        "actor": "Station Supervisor"
+      },
+      {
+        "status": "Resolved",
+        "timestamp": "2026-10-26T15:00:00Z",
+        "note": "Filter mesh replaced, sediment excavated, drainage restored.",
+        "actor": "Maintenance Tech"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1028",
+    "title": "Continuous potable water leak from public distribution tap standpost",
+    "description": "A community water tap on 9th Cross Hebbal has had a broken brass valve for 6 days, releasing a continuous stream of potable water onto the road and eroding the gravel shoulder.",
+    "category": "Water",
+    "department": "Water Supply & Sewerage",
+    "status": "Resolved",
+    "priority": "Medium",
+    "priorityScore": 54,
+    "urgencyScore": 6,
+    "publicImpactScore": 5,
+    "priorityExplanation": "Wastage of municipal treated water from defective tap valve.",
+    "aiSummary": "Broken brass stopcock causing continuous potable water spillage onto roadway.",
+    "area": "Hebbal",
+    "address": "9th Cross, Kanakanagar, Hebbal",
+    "coordinates": {
+      "lat": 13.0422,
+      "lng": 77.6011
+    },
+    "citizenName": "Nazia Sultana",
+    "createdAt": "2026-10-25T08:30:00Z",
+    "updatedAt": "2026-10-27T14:00:00Z",
+    "citizenUpvotes": 15,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-25T08:30:00Z",
+        "note": "Citizen grievance reported.",
+        "actor": "Citizen (Nazia Sultana)"
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-10-26T11:00:00Z",
+        "note": "Plumbing tech scheduled.",
+        "actor": "Water Board Hebbal"
+      },
+      {
+        "status": "Resolved",
+        "timestamp": "2026-10-27T14:00:00Z",
+        "note": "Defective brass tap replaced with heavy duty push-cock valve.",
+        "actor": "Plumbing Crew"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1029",
+    "title": "Broken and missing stormwater drain slab on busy school walking path",
+    "description": "Two precast concrete slabs covering the roadside drain have collapsed inward outside National Public School in Indiranagar. The gap exposes a 4-foot deep drop with jagged rebar sticking out.",
+    "category": "Public Safety",
+    "department": "Public Safety & Vigilance",
+    "status": "In Progress",
+    "priority": "High",
+    "priorityScore": 87,
+    "urgencyScore": 9,
+    "publicImpactScore": 8,
+    "priorityExplanation": "Direct child injury hazard with exposed rusty rebar outside school entrance.",
+    "aiSummary": "Collapsed concrete drain slabs with exposed jagged rebar on school pedestrian path.",
+    "area": "Indiranagar",
+    "address": "12th A Main Road, Outside National Public School, Indiranagar",
+    "coordinates": {
+      "lat": 12.9722,
+      "lng": 77.6385
+    },
+    "citizenName": "Sunil Mathur",
+    "createdAt": "2026-10-28T08:00:00Z",
+    "updatedAt": "2026-10-29T10:15:00Z",
+    "citizenUpvotes": 36,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-28T08:00:00Z",
+        "note": "Parent filed safety report.",
+        "actor": "Citizen (Sunil Mathur)"
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-10-28T10:30:00Z",
+        "note": "Assigned to Ward Civil Works Wing.",
+        "actor": "Assistant Engineer"
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-10-29T10:15:00Z",
+        "note": "Temporary steel plate placed; precast reinforced RCC slabs ordered for delivery.",
+        "actor": "Civil Works Team"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1030",
+    "title": "Dead animal carcass attracting scavengers and posing health hazard",
+    "description": "A stray cow carcass has been lying on the median of Outer Ring Road near Kadubeesanahalli underpass for over 18 hours. Traffic is swerving to avoid scavengers, and biohazard health risks are rising.",
+    "category": "Waste",
+    "department": "Solid Waste Management",
+    "status": "In Progress",
+    "priority": "High",
+    "priorityScore": 85,
+    "urgencyScore": 9,
+    "publicImpactScore": 8,
+    "priorityExplanation": "Urgent bio-sanitary hazard on high speed expressway median.",
+    "aiSummary": "Large animal carcass on expressway median causing traffic diversion and sanitation threat.",
+    "area": "Whitefield",
+    "address": "Outer Ring Road, Kadubeesanahalli Underpass Median, Near Whitefield Border",
+    "coordinates": {
+      "lat": 12.9366,
+      "lng": 77.6989
+    },
+    "citizenName": "Abhishek Iyer",
+    "createdAt": "2026-10-29T06:00:00Z",
+    "updatedAt": "2026-10-29T08:15:00Z",
+    "citizenUpvotes": 33,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-29T06:00:00Z",
+        "note": "Emergency commuter call and report.",
+        "actor": "Citizen (Abhishek Iyer)"
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-10-29T06:30:00Z",
+        "note": "Veterinary animal disposal vehicle dispatched.",
+        "actor": "Health Officer"
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-10-29T08:15:00Z",
+        "note": "Vehicle on site; sanitary bleaching and burial in progress.",
+        "actor": "Veterinary Team"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1031",
+    "title": "Severe oil spill from broken cargo truck creating extreme skidding hazard",
+    "description": "An engine oil sump rupture has coated 80 meters of the left turn lane near Richmond Circle flyover with slippery dark oil. Three motorbikes have already slipped and fallen.",
+    "category": "Public Safety",
+    "department": "Public Safety & Vigilance",
+    "status": "In Progress",
+    "priority": "Critical",
+    "priorityScore": 97,
+    "urgencyScore": 10,
+    "publicImpactScore": 9,
+    "priorityExplanation": "Active vehicular skidding hazard on busy junction flyover turn. Immediate sand application required.",
+    "aiSummary": "80m engine oil spill on flyover slip road causing multiple motorcycle accidents.",
+    "area": "MG Road Hub",
+    "address": "Richmond Circle Flyover Slip Lane toward Residency Road",
+    "coordinates": {
+      "lat": 12.9664,
+      "lng": 77.5991
+    },
+    "citizenName": "Police Sub-Inspector R. Patil",
+    "createdAt": "2026-10-29T15:00:00Z",
+    "updatedAt": "2026-10-29T15:30:00Z",
+    "citizenUpvotes": 52,
+    "actionBrief": {
+      "recommendedAction": "Immediate lane closure by traffic police; spread 3 truckloads of dry construction sand and sawdust, followed by high-pressure chemical detergent washing.",
+      "assignedCrew": "Municipal Emergency Fire & Safety Division",
+      "estimatedResolutionHours": 1.5,
+      "equipmentRequired": [
+        "Dry river sand (4 cubic meters)",
+        "Sawdust bags (10)",
+        "Water jet tanker with degreaser agent",
+        "Hazard cones & flares"
+      ],
+      "safetyPrecautions": "Deploy police patrol car with flashing light bars 100 meters upstream to prevent approaching vehicles from braking on oil patch.",
+      "dispatchCode": "SAF-SPILL-101",
+      "generatedAt": "2026-10-29T15:05:00Z",
+      "aiModel": "Gemini 3.8 Flash"
+    },
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-29T15:00:00Z",
+        "note": "Traffic police logged critical safety incident.",
+        "actor": "Traffic Inspector R. Patil"
+      },
+      {
+        "status": "Under Review",
+        "timestamp": "2026-10-29T15:05:00Z",
+        "note": "AI calculated Critical priority (97/100). Auto-notified emergency services.",
+        "actor": "CivicAI Engine"
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-10-29T15:30:00Z",
+        "note": "Sand spreading truck on site; slip lane cordoned.",
+        "actor": "Emergency Safety Squad"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1032",
+    "title": "Illegal encroachment of pedestrian footpath by commercial metal sheds",
+    "description": "Shop owners in Jayanagar 9th Block have welded permanent iron fabrication sheds directly over the public footpath, forcing mothers with strollers and elderly pedestrians to walk on the busy vehicular road.",
+    "category": "Public Safety",
+    "department": "Public Safety & Vigilance",
+    "status": "Under Review",
+    "priority": "Medium",
+    "priorityScore": 60,
+    "urgencyScore": 5,
+    "publicImpactScore": 7,
+    "priorityExplanation": "Pedestrian right-of-way encroachment on residential commercial lane.",
+    "aiSummary": "Permanent iron sheds erected over sidewalk forcing pedestrians into vehicular traffic.",
+    "area": "Jayanagar",
+    "address": "39th Cross, 9th Block, Jayanagar",
+    "coordinates": {
+      "lat": 12.9214,
+      "lng": 77.5932
+    },
+    "citizenName": "Nandini Hegde",
+    "createdAt": "2026-10-28T16:00:00Z",
+    "updatedAt": "2026-10-28T16:30:00Z",
+    "citizenUpvotes": 20,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-28T16:00:00Z",
+        "note": "Civic encroachment complaint filed.",
+        "actor": "Citizen (Nandini Hegde)"
+      },
+      {
+        "status": "Under Review",
+        "timestamp": "2026-10-28T16:30:00Z",
+        "note": "Forwarded to Town Planning & Encroachment Removal Cell.",
+        "actor": "CivicAI Engine"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1033",
+    "title": "Water treatment filtration backwash dumping into natural storm drain",
+    "description": "An industrial washing facility near Hebbal Lake is discharging chemical frothing gray effluent into the municipal stormwater canal at night, leaving white foam on lake inlet wetlands.",
+    "category": "Water",
+    "department": "Water Supply & Sewerage",
+    "status": "Assigned",
+    "priority": "High",
+    "priorityScore": 83,
+    "urgencyScore": 8,
+    "publicImpactScore": 9,
+    "priorityExplanation": "Environmental pollution violation threatening urban lake biodiversity and groundwater table.",
+    "aiSummary": "Chemical frothing effluent discharge into Hebbal stormwater inlet wetlands.",
+    "area": "Hebbal",
+    "address": "Near Hebbal Lake North Inlet, Outer Ring Road",
+    "coordinates": {
+      "lat": 13.0455,
+      "lng": 77.5898
+    },
+    "citizenName": "Dr. Joseph Kurian",
+    "createdAt": "2026-10-27T22:30:00Z",
+    "updatedAt": "2026-10-28T11:00:00Z",
+    "citizenUpvotes": 34,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-27T22:30:00Z",
+        "note": "Environmental activist report lodged.",
+        "actor": "Citizen (Dr. Joseph Kurian)"
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-10-28T11:00:00Z",
+        "note": "Pollution Control Board inspector assigned to conduct night audit and sample testing.",
+        "actor": "Environmental Officer"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1034",
+    "title": "Substation transformer oil leakage and overheating humming noise",
+    "description": "The pole-mounted distribution transformer outside HSR Sector 3 Park is emitting a loud abnormal buzzing drone, and mineral insulating oil is dripping steadily onto the sidewalk gravel.",
+    "category": "Electricity",
+    "department": "Electricity & Energy Board",
+    "status": "In Progress",
+    "priority": "Critical",
+    "priorityScore": 90,
+    "urgencyScore": 9,
+    "publicImpactScore": 9,
+    "priorityExplanation": "Imminent transformer failure or explosion hazard due to critical loss of cooling dielectric oil.",
+    "aiSummary": "Pole transformer humming loudly with continuous insulating oil leak posing explosion threat.",
+    "area": "HSR Layout",
+    "address": "17th Cross, Sector 3, Near BDA Complex, HSR Layout",
+    "coordinates": {
+      "lat": 12.9112,
+      "lng": 77.6398
+    },
+    "citizenName": "Sanjay Balakrishnan",
+    "createdAt": "2026-10-29T13:00:00Z",
+    "updatedAt": "2026-10-29T14:15:00Z",
+    "citizenUpvotes": 30,
+    "actionBrief": {
+      "recommendedAction": "Trip 11kV feeder breaker remotely. Dispatch transformer maintenance team with mobile oil top-up filter unit and gasket replacement set.",
+      "assignedCrew": "High Voltage Transformer Emergency Gang",
+      "estimatedResolutionHours": 3,
+      "equipmentRequired": [
+        "Transformer oil filtration van",
+        "Nitrile rubber gasket set",
+        "Infrared thermography camera",
+        "11kV insulating gloves & arc-flash suit"
+      ],
+      "safetyPrecautions": "Enforce 20-meter cordoned safety radius around pole structure until load is de-energized.",
+      "dispatchCode": "ELEC-XFRM-303",
+      "generatedAt": "2026-10-29T13:05:00Z",
+      "aiModel": "Gemini 3.8 Flash"
+    },
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-29T13:00:00Z",
+        "note": "Resident reported overheating transformer.",
+        "actor": "Citizen (Sanjay B.)"
+      },
+      {
+        "status": "Under Review",
+        "timestamp": "2026-10-29T13:05:00Z",
+        "note": "AI escalated to Critical Electricity.",
+        "actor": "CivicAI Engine"
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-10-29T14:15:00Z",
+        "note": "Substation diverted load; thermal imaging confirmed 88°C hot spot; gasket being replaced.",
+        "actor": "High Voltage Crew"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1035",
+    "title": "Severe garbage accumulation along metro pillar corridor",
+    "description": "Pedestrians and night food trucks are dumping packaging cartons and leftover food along Metro Pillars 110 to 118 on CMH Road. Black garbage heaps have grown to knee-height, blocking the pedestrian crosswalk.",
+    "category": "Waste",
+    "department": "Solid Waste Management",
+    "status": "Submitted",
+    "priority": "Medium",
+    "priorityScore": 68,
+    "urgencyScore": 7,
+    "publicImpactScore": 7,
+    "priorityExplanation": "Visual blight and rodent nuisance on prominent public transit corridor.",
+    "aiSummary": "Multiple large garbage heaps accumulating along CMH Road metro pillars blocking crosswalk.",
+    "area": "Indiranagar",
+    "address": "CMH Road, Metro Pillars 110-118, Indiranagar",
+    "coordinates": {
+      "lat": 12.9799,
+      "lng": 77.6321
+    },
+    "imageUrl": "/src/assets/images/overflowing_waste_1793342885872.jpg",
+    "citizenName": "Deepa Natarajan",
+    "createdAt": "2026-10-29T11:30:00Z",
+    "updatedAt": "2026-10-29T11:45:00Z",
+    "citizenUpvotes": 17,
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-29T11:30:00Z",
+        "note": "Citizen grievance submitted.",
+        "actor": "Citizen (Deepa Natarajan)"
+      },
+      {
+        "status": "Under Review",
+        "timestamp": "2026-10-29T11:45:00Z",
+        "note": "AI validated Waste category (Medium priority 68/100).",
+        "actor": "CivicAI Engine"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1036",
+    "title": "Crumbling asphalt and dangerous sinkhole opening near storm culvert",
+    "description": "Around the concrete culvert on 10th Main Malleshwaram, road surface is collapsing into a 1-meter sinkhole caused by water leaking from the underground drain. The asphalt edge is completely unsupported and hollow underneath.",
+    "category": "Roads",
+    "department": "Roads & Infrastructure",
+    "status": "In Progress",
+    "priority": "Critical",
+    "priorityScore": 95,
+    "urgencyScore": 10,
+    "publicImpactScore": 9,
+    "priorityExplanation": "Catastrophic road cave-in hazard. Vehicle driving over hollow culvert edge will fall through.",
+    "aiSummary": "Subterranean water erosion causing expanding 1-meter sinkhole and hollow asphalt collapse near culvert.",
+    "area": "Malleshwaram",
+    "address": "10th Main Road, Near 15th Cross Culvert, Malleshwaram",
+    "coordinates": {
+      "lat": 13.0045,
+      "lng": 77.5689
+    },
+    "imageUrl": "/src/assets/images/pothole_road_1793342885294.jpg",
+    "citizenName": "Prof. Ananth Rangachari",
+    "createdAt": "2026-10-29T08:30:00Z",
+    "updatedAt": "2026-10-29T10:00:00Z",
+    "citizenUpvotes": 51,
+    "actionBrief": {
+      "recommendedAction": "Immediately cordone road with steel barricades. Excavate hollow cavity, repair culvert joint with non-shrink hydraulic cement, backfill with wet mix macadam, and pave 50mm dense bituminous macadam.",
+      "assignedCrew": "Zone 2 Rapid Infrastructure Restoration Team",
+      "estimatedResolutionHours": 6,
+      "equipmentRequired": [
+        "Mini Excavator",
+        "Fast-setting hydraulic grout",
+        "Wet-mix macadam (3 MT)",
+        "Bituminous asphalt finisher"
+      ],
+      "safetyPrecautions": "Strict prohibition of any vehicular movement within 10 meters of culvert cavity.",
+      "dispatchCode": "RD-SINK-202",
+      "generatedAt": "2026-10-29T08:35:00Z",
+      "aiModel": "Gemini 3.8 Flash"
+    },
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-10-29T08:30:00Z",
+        "note": "Emergency sinkhole report logged.",
+        "actor": "Citizen (Prof. Ananth R.)"
+      },
+      {
+        "status": "Under Review",
+        "timestamp": "2026-10-29T08:35:00Z",
+        "note": "AI escalated to Critical priority (95/100). Generated emergency action brief.",
+        "actor": "CivicAI Engine"
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-10-29T10:00:00Z",
+        "note": "Road closed; excavation revealed 4-foot void beneath asphalt; culvert sealing in progress.",
+        "actor": "Civil Works Team"
+      }
+    ]
+  }
+]
